@@ -1,4 +1,4 @@
 for (let i = 0; i < 5; i++) {
-  console.log(i)
+  // console.log(i)
 }
-console.log('wangnima')
+// console.log('wangnima')
